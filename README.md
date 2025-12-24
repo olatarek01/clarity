@@ -1,6 +1,5 @@
 # Clarity Website 
 
-![Clarity Logo](images/logo.png)  
 
 A modern, responsive landing page for **Clarity**, a digital solutions company. The site showcases client testimonials, FAQs, services, and provides an interactive contact form for potential clients.
 
